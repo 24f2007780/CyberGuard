@@ -13,6 +13,9 @@ Made By CyberGuard Team for Compassion-A-Thon 2.0:
 
 [Compassion-A-thon 2.0 slides](https://docs.google.com/presentation/d/17qy9XTDllV1emOcEeT_hT0rKvmnm8gRefFuDwI8hClE/edit?usp=sharing)
 [Features Roadmap](https://docs.google.com/document/d/1-DmBus_-4BKtybs03VGKvMj0MCYGvAUoUQqLw9GVIdk/edit?usp=sharing)
+
+[![Daily Auto Commit](https://github.com/24f2007780/CyberGuard/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/24f2007780/CyberGuard/actions/workflows/daily-commit.yml)
+
 ## Project Structure
 
 ```
