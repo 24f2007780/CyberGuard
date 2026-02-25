@@ -1,9 +1,12 @@
 name: Daily Auto Commit
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: '0 10 * * *'  
-  workflow_dispatch:    
+    - cron: '0 10 * * *'
+  workflow_dispatch:
 
 jobs:
   daily-commit:
