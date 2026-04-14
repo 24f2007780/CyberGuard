@@ -1,6 +1,5 @@
 # CyberGuard Chrome Extension
 Made By CyberGuard Team for Compassion-A-Thon 2.0:
-[Tatiparthi Raghavendra Reddy](23f2002940@ds.study.iitm.ac.in)
 [Yashvi Upadhyay](24f2007780@ds.study.iitm.ac.in)
 ### [CyberGuard DEMO VIDEO📺🔗](https://drive.google.com/file/d/18AdT5Wg1GEEeac3Cv29xmeM8lutj3JzX/view?usp=sharing)
 ### Features🤖
